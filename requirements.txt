@@ -1,0 +1,16 @@
+Langchain==0.2.14
+Langchain-community
+Langchain-core==0.2.33
+Langchain-text-splitters==0.2.2
+Langchain-openai
+pypdf
+faiss-cpu
+Langchainhub
+Langsmith
+Langgraph
+Langchain-pinecone
+requests
+black
+openai
+google-search-results
+python-dotenv
